@@ -10,4 +10,4 @@ All video files and GPS/location data processed by this application are handled 
 This application may use map tile providers (e.g., OpenStreetMap) to display the map. These services may receive your IP address for the purpose of serving map data, but no personal identification is linked.
 
 ## 4. Contact
-If you have any questions, please contact the developer through the GitHub repository page.
+If you have any questions, please contact the developer through the GitHub repository page .
