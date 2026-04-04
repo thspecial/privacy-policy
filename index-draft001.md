@@ -2,7 +2,7 @@
 Welcome to the official user guide for MichinakaMap.
 
 
-**Version:** 1.0.201  
+**Version:** 1.0.202  
 **Platform:** Windows 10 / 11 (64-bit)  
 **Map Data:** © OpenStreetMap contributors
 
