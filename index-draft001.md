@@ -1,16 +1,16 @@
 # MichinakaMap – User Guide
+Welcome to the official user guide for MichinakaMap.
 
- Welcome to the official user guide for MichinakaMap.
-----
-## Privacy Policy
-👉 [View the Privacy Policy](privacy-policy)
 
-----
 **Version:** 1.0.201  
 **Platform:** Windows 10 / 11 (64-bit)  
 **Map Data:** © OpenStreetMap contributors
 
----
+## Privacy Policy
+👉 [View the Privacy Policy](privacy-policy)
+
+
+
 
 ## 1. Introduction
 **MichinakaMap** is a specialized telemetry visualizer designed for GoPro users and GPS data analysts. It synchronizes GPS5 metadata with video playback, providing a high-speed (150fps) rendering of your journey on a dynamic map.
@@ -41,5 +41,5 @@
 ## 6. Disclaimer
 GOPRO and HERO are trademarks or registered trademarks of GoPro, Inc. This software is an independent utility and is not affiliated with, authorized, or endorsed by GoPro, Inc.
 
----
+----
 © 2026 thspec@outlook.com . All rights reserved.
