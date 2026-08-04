@@ -1,3 +1,4 @@
+[← Back to Index](index.md)
 🌐 **Read in:** [English](michinakamap_manual.md) | [日本語 (Japanese)](#)
 
 ---
