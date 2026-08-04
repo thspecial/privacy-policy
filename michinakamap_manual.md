@@ -33,7 +33,7 @@ Right-clicking anywhere on the screen displays the following context menu option
 
 ## 2. Keyboard Shortcuts
 
-A reference guide for keyboard operations across different application windows.
+A reference guide for keyboard operations in video and map application windows.
 
 ### 2.1 Video Playback Window (MP4 / LRV)
 
