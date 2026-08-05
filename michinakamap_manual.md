@@ -1,5 +1,5 @@
 [← Back to Index](index.md)
-🌐 **Read in:** [English](#) | [日本語 (Japanese)](michinakamap_manual_ja.md)
+🌐 **Read in:** [English](#) | [Japanese](michinakamap_manual_ja.md)
 
 ---
 
